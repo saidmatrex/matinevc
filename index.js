@@ -1,7 +1,7 @@
 require('dotenv').config();
 const Discord = require('discord.js-selfbot');
 const fta = require('node-fetch');
-const channel = "1202679218845261925";
+const channel = "1240260340239962133";
 
 const discord = require("discord.js-selfbot");
 const client = new discord.Client({
